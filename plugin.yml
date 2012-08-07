@@ -2,10 +2,10 @@ name: TreeFarmer
 description: Easy tree farming
 version: 1.0.0
 
-author: jmgr2007
+authors: [jmgr2007, tehtros]
 website:
 
-main: 'bukkit.jmgr2007.TreeFarmer.TreeFarmer'
+main: 'darkMesa.bukkit.TreeFarmer.TreeFarmer'
 
 commands:
 
