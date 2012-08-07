@@ -1,0 +1,12 @@
+name: TreeFarmer
+description: Easy tree farming
+version: 1.0.0
+
+author: jmgr2007
+website:
+
+main: 'bukkit.jmgr2007.TreeFarmer.TreeFarmer'
+
+commands:
+
+permissions:
